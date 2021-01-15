@@ -1,0 +1,28 @@
+.EvaluationMessage {
+    width: 90%;
+    align-items: center;
+    padding: 0 100px;
+    height: 130px;
+    margin: -45px 65px;
+    justify-content: center;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between; 
+}
+
+.EvaluationMessage p{
+    font-size: 40px;
+    font-style: italic;
+    color: gray;
+}
+
+.EvaluationMessage input {
+    height: 65px;
+    width: 52%;
+    font-size: 20px;
+    border-radius: 35px;
+    padding-left: 20px;
+    border: 1px solid #cccccc;
+    box-sizing: border-box;
+    box-shadow: 3px 3px 2px #ccc;
+}

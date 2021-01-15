@@ -1,0 +1,19 @@
+.NameWithMessage {
+        padding: 8px;
+        height: 100%;
+        box-sizing: border-box;
+        border-radius: 10px;
+        display: flex;
+}
+
+.NameWithMessage p {
+    margin-left: 10px;
+    margin-top: 4px;
+    font-size: 15px;
+}
+
+@media (max-width:499px) {
+    .DesktopOnly {
+        display: none;
+    }
+}

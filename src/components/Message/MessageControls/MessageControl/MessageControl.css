@@ -1,0 +1,24 @@
+.MessageControl {
+    color: #0f0d0b;
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+}
+
+.MessageControl a{
+    color: #8F5C2C;
+    text-decoration: none;
+    width: 10%;
+    box-sizing: border-box;
+    display: block;
+    font-size: small;
+}
+
+.Label {
+    padding: 10px;
+    font-weight: bold;
+    width: 80px;
+}
+
+

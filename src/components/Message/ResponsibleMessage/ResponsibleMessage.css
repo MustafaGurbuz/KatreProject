@@ -1,0 +1,9 @@
+.ResponsibleMessage {
+    width: 80%;
+    align-items: center;
+    margin-left: 35px;
+    padding: 10px 120px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+}

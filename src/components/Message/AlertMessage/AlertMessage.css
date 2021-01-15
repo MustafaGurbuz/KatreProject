@@ -1,0 +1,10 @@
+.AlertMessage {
+    width: 80%;
+    background-color: chartreuse;
+    height: 40px;
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    margin: 15px 150px;
+    border-radius: 10px;
+}

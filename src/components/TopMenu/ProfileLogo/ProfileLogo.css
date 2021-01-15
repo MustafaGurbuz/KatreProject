@@ -1,0 +1,13 @@
+.ProfileLogo {
+    padding: 8px;
+    height: 100%;
+    box-sizing: border-box;
+    border-left: 1px solid rgb(175, 172, 172);
+    width: 120px;
+    display: flex;
+   justify-content: center;
+}
+
+.ProfileLogo img {
+    height: 100%;
+}

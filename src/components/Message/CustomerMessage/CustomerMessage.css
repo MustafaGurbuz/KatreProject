@@ -1,0 +1,9 @@
+.CustomerMessage {
+    width: 80%;
+    align-items: center;
+    margin-left: 35px;
+    padding: 10px 120px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}

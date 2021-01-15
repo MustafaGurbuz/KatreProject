@@ -1,0 +1,31 @@
+.LeftSideInfo {
+    width: 30%;
+    height: 130px;
+    background-color: rgb(241, 235, 235); 
+    box-sizing: border-box;
+    box-shadow: 0 2px 2px 2px lightslategrey;
+    margin-right: 15px;
+    margin-left: -25px;
+    display: block;
+}
+
+.LeftSideInfo p{
+    color:purple;
+    padding-left: 10px;
+    width: 85%;
+    font-size: 13px;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+}
+
+.LeftSideInfo h3{
+        color:purple;
+        padding-left: 10px;
+        width: 85%;
+        font-style: normal;
+        display: flex;
+        justify-content: center;
+}
+
+

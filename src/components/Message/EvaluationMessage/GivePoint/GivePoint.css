@@ -1,0 +1,24 @@
+.GivePoint {
+    width: 41%;
+    align-items: center;
+    height: 65px;
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 30px;
+    background-color: white; 
+}
+
+.GivePoint p{
+    height: 60px;
+    width: 9%;
+    padding-top: 5px;
+    padding-left: 25px;
+    margin-left: -22px;
+    color: white;
+    font-size: 37px;
+    font-style: normal;
+    background-color: darkslategray;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
